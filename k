@@ -1,1 +1,3 @@
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIJ4wwiCVZGTKKOOcJiXKwavLEAqxJt6htRt66AoYAQsP glomedcen@gmail.com
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAINqxyHRP3cwb2kLc49HWnjoWRQBwSc4fj40zjTgwEAPS lutfizain@omarchy
 ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIFeH0EIezlfQNFUdqaLY+VeXsVKPeuVBD/xWycMC/AhH jamal.psw@gmail.com
